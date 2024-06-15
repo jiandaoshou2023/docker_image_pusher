@@ -1,1 +1,2 @@
 cooderl/wewe-rss-sqlite:latest
+cooderl/wewe-rss:latest
