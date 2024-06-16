@@ -5,13 +5,4 @@ vinlic/qwen-free-api:latest
 vinlic/glm-free-api:latest
 vinlic/deepseek-free-api:latest
 
-langgenius/dify-api:latest
-langgenius/dify-web:latest
-postgres:15-alpine
-redis:6-alpine
-semitechnologies/weaviate:latest
-langgenius/dify-sandbox:latest
-ubuntu/squid:latest
-langgenius/qdrant:latest
-pgvector/pgvector:pg16
-nginx:latest
+lobehub/lobe-chat
