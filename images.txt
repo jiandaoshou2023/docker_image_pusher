@@ -6,3 +6,5 @@ vinlic/glm-free-api:latest
 vinlic/deepseek-free-api:latest
 
 lobehub/lobe-chat
+
+ghcr.io/martialbe/one-api
