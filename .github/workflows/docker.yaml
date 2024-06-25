@@ -4,6 +4,10 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
+  schedule:
+  # 每天UTC时间0点执行
+  - cron: '0 0 * * *'
+
 
 
 env:
