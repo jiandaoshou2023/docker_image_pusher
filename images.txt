@@ -1,4 +1,5 @@
 cooderl/wewe-rss:latest
+cooderl/wewe-rss-sqlite:latest
 
 vinlic/kimi-free-api:latest
 vinlic/qwen-free-api:latest
