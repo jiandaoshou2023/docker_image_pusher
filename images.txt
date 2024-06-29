@@ -1,3 +1,5 @@
+docker-library/mysql:8.2.0
+
 cooderl/wewe-rss:latest
 cooderl/wewe-rss-sqlite:latest
 
