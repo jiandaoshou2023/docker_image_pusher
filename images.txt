@@ -11,3 +11,5 @@ vinlic/hailuo-free-api:latest
 vinlic/metaso-free-api:latest
 
 ghcr.io/martialbe/one-api
+
+github.com/langgenius/dify.git
