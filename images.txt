@@ -14,4 +14,4 @@ ghcr.io/martialbe/one-api
 
 hanfangyuan/dify-on-wechat
 
-docker pull lobehub/lobe-chat
+lobehub/lobe-chat
