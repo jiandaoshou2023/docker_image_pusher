@@ -10,8 +10,8 @@ vinlic/deepseek-free-api:latest
 vinlic/hailuo-free-api:latest
 vinlic/metaso-free-api:latest
 
-ghcr.io/martialbe/one-api
+dify_ai/dify.git
 
-hanfangyuan/dify-on-wechat
+ghcr.io/martialbe/one-api
 
 lobehub/lobe-chat
