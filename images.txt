@@ -10,8 +10,6 @@ vinlic/deepseek-free-api:latest
 vinlic/hailuo-free-api:latest
 vinlic/metaso-free-api:latest
 
-dify_ai/dify.git
-
 ghcr.io/martialbe/one-api
 
 lobehub/lobe-chat
