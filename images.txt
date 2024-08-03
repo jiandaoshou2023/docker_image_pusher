@@ -13,3 +13,6 @@ vinlic/metaso-free-api:latest
 ghcr.io/martialbe/one-api
 
 lobehub/lobe-chat
+
+langgenius/dify-api:latest
+langgenius/dify-web:latest
