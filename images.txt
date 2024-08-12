@@ -14,5 +14,5 @@ ghcr.io/martialbe/one-api
 
 lobehub/lobe-chat
 
-langgenius/dify-api:latest
-langgenius/dify-web:latest
+langgenius/dify-api:0.6.16
+langgenius/dify-web:0.6.16
