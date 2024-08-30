@@ -18,3 +18,5 @@ langgenius/dify-api:0.6.16
 langgenius/dify-web:0.6.16
 
 calciumion/new-api:latest
+
+zhayujie/chatgpt-on-wechat
