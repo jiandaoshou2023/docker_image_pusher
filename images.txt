@@ -10,13 +10,12 @@ vinlic/deepseek-free-api:latest
 vinlic/hailuo-free-api:latest
 vinlic/metaso-free-api:latest
 
-ghcr.io/martialbe/one-api
+justsong/one-api
+calciumion/new-api:latest
 
 lobehub/lobe-chat
 
 langgenius/dify-api:0.6.16
 langgenius/dify-web:0.6.16
-
-calciumion/new-api:latest
 
 zhayujie/chatgpt-on-wechat
