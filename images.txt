@@ -15,11 +15,11 @@ calciumion/new-api:latest
 
 lobehub/lobe-chat
 
-langgenius/dify-api:0.8.0
-langgenius/dify-web:0.8.0
+langgenius/dify-api:0.8.3
+langgenius/dify-web:0.8.3
 postgres:15-alpine
 redis:6-alpine
-langgenius/dify-sandbox:0.2.7
+langgenius/dify-sandbox:0.2.9
 ubuntu/squid:latest
 certbot/certbot
 nginx:latest
@@ -35,8 +35,8 @@ milvusdb/milvus:v2.3.1
 opensearchproject/opensearch:latest
 opensearchproject/opensearch-dashboards:latest
 myscale/myscaledb:1.6.4
-docker.elastic.co/elasticsearch/elasticsearch:8.14.3
-docker.elastic.co/kibana/kibana:8.14.3
+docker.elastic.co/elasticsearch/elasticsearch:8.15.1
+docker.elastic.co/kibana/kibana:8.15.1
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
 
 zhayujie/chatgpt-on-wechat
