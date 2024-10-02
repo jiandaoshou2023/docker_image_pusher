@@ -10,7 +10,7 @@ vinlic/deepseek-free-api:latest
 vinlic/hailuo-free-api:latest
 vinlic/metaso-free-api:latest
 
-justsong/one-api
+justsong/one-api:v0.6.8
 calciumion/new-api:latest
 
 lobehub/lobe-chat
