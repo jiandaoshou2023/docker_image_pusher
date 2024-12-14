@@ -1,6 +1,5 @@
-langgenius/dify-api:0.12.1
-langgenius/dify-web:0.12.1
-ghcr.io/chroma-core/chroma:0.5.20
+mysql:8.3.0
+cooderl/wewe-rss:latest
 
 
 
