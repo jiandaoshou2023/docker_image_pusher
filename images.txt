@@ -1,4 +1,4 @@
-pingcap/tidb:v8.4.0
+calciumion/new-api:latest
 
 
 
