@@ -1,4 +1,4 @@
-lobe-chat-db
+https://raw.githubusercontent.com/lobehub/lobe-chat/HEAD/docker-compose/local/setup.sh
 
 
 
