@@ -1,4 +1,6 @@
-lobehub/lobe-chat-database
+alpine
+pgvector/pgvector:pg16
+casbin/casdoor
 
 
 
