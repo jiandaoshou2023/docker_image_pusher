@@ -1,4 +1,4 @@
-browserslist/update-db
+lobe-chat-db
 
 
 
