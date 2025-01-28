@@ -1,6 +1,5 @@
-alpine
-pgvector/pgvector:pg16
-casbin/casdoor
+langgenius/dify-api:0.15.2
+langgenius/dify-web:0.15.2
 
 
 
