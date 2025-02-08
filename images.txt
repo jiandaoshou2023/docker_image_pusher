@@ -1,4 +1,4 @@
-aiaw krytro/aiaw:latest
+krytro/aiaw:latest
 
 
 
