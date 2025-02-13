@@ -1,4 +1,4 @@
-deploy/docker
+calciumion/new-api:latest
 
 
 
