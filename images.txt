@@ -1,4 +1,4 @@
-calciumion/new-api:latest
+justsong/one-api
 
 
 
