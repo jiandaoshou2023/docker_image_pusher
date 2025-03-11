@@ -1,5 +1,4 @@
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
+calciumion/new-api:latest
 
 
 
