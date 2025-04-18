@@ -1,5 +1,5 @@
-ghcr.io/songquanpeng/one-api:v0.6.11-preview.7
-
+ghcr.io/songquanpeng/one-api:latest
+redis:7.2-alpine
 
 
 
