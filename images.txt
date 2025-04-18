@@ -1,4 +1,4 @@
-calciumion/new-api:latest
+ghcr.io/songquanpeng/one-api:v0.6.11-preview.7
 
 
 
