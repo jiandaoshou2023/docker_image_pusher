@@ -1,5 +1,4 @@
-ghcr.io/songquanpeng/one-api:latest
-redis:7.2-alpine
+cooderl/wewe-rss:latest
 
 
 
